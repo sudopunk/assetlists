@@ -7253,20 +7253,20 @@
       "future_pool_governor": "",
       "total_shares": {
         "denom": "gamm/pool/308",
-        "amount": "100039283726017261671"
+        "amount": "100040923783779531072"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "65796058698"
+            "amount": "65795843187"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "152339794883"
+            "amount": "152345294883"
           },
           "weight": "1073741824000000"
         }
@@ -11373,20 +11373,20 @@
       "future_pool_governor": "24h",
       "total_shares": {
         "denom": "gamm/pool/588",
-        "amount": "795791700499955600764"
+        "amount": "800680256444536974028"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/B8435C53F8B5CC87703531FF736508875DF473D0C231E93A3EF5C2C934E562A4",
-            "amount": "655762601"
+            "amount": "655611826"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "1973542946"
+            "amount": "1998510008"
           },
           "weight": "536870912000000"
         }
