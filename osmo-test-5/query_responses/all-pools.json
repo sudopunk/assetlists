@@ -11373,20 +11373,20 @@
       "future_pool_governor": "24h",
       "total_shares": {
         "denom": "gamm/pool/588",
-        "amount": "805525239409681339029"
+        "amount": "805557251673559887947"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/B8435C53F8B5CC87703531FF736508875DF473D0C231E93A3EF5C2C934E562A4",
-            "amount": "642515108"
+            "amount": "642601418"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2064448147"
+            "amount": "2064335908"
           },
           "weight": "536870912000000"
         }
