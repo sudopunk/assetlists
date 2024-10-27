@@ -12,7 +12,7 @@
       "future_pool_governor": "",
       "total_shares": {
         "denom": "gamm/pool/1",
-        "amount": "15357844871768393707609"
+        "amount": "15357942437301580166814"
       },
       "pool_assets": [
         {
@@ -25,7 +25,7 @@
         {
           "token": {
             "denom": "uosmo",
-            "amount": "3145060418253"
+            "amount": "3145085418253"
           },
           "weight": "4294967296"
         }
