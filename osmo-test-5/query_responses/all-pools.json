@@ -12,20 +12,20 @@
       "future_pool_governor": "",
       "total_shares": {
         "denom": "gamm/pool/1",
-        "amount": "15353822040323292121726"
+        "amount": "15354552439666457729784"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "uion",
-            "amount": "2524189313"
+            "amount": "2524317400"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "3144274894126"
+            "amount": "3144421989713"
           },
           "weight": "4294967296"
         }
@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "101056794411"
+            "amount": "101056827416"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "524475338476"
+            "amount": "524475167600"
           },
           "weight": "1073741824"
         }
@@ -7259,14 +7259,14 @@
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "65696589369"
+            "amount": "65697101369"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "154988764041"
+            "amount": "154987558578"
           },
           "weight": "1073741824000000"
         }
@@ -8610,14 +8610,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "9844010"
+            "amount": "10096923"
           },
           "weight": "53687091200"
         },
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "10163737"
+            "amount": "9909176"
           },
           "weight": "53687091200"
         }
