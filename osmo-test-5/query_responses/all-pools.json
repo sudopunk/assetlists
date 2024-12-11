@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "101050977961"
+            "amount": "101045632662"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "524455426579"
+            "amount": "524483619582"
           },
           "weight": "1073741824"
         }
@@ -374,14 +374,14 @@
         {
           "token": {
             "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-            "amount": "82783858951"
+            "amount": "82783747295"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2037299607148"
+            "amount": "2037302361542"
           },
           "weight": "1073741824"
         }
@@ -12802,6 +12802,38 @@
         }
       ],
       "total_weight": "2147483648000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1uhph4khwq9d0u5envm0s74hqph3jw990923c957ta2vwue9vjppqu4749r",
+      "id": "681",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "168h",
+      "total_shares": {
+        "denom": "gamm/pool/681",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "factory/osmo1gsjdh6amqaehmrn0exz8e0eq3nvuksdl33j3lq/owonicorn",
+            "amount": "12115724297918"
+          },
+          "weight": "1073741824"
+        },
+        {
+          "token": {
+            "denom": "factory/osmo1gsjdh6amqaehmrn0exz8e0eq3nvuksdl33j3lq/utest",
+            "amount": "219745816574779"
+          },
+          "weight": "1073741824"
+        }
+      ],
+      "total_weight": "2147483648"
     }
   ],
   "pagination": {
