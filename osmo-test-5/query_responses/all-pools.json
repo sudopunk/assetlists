@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "101030349568"
+            "amount": "101030890927"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "524563301063"
+            "amount": "524560505726"
           },
           "weight": "1073741824"
         }
@@ -8070,14 +8070,14 @@
         {
           "token": {
             "denom": "factory/osmo1genudzpvqe2t9k64xwueua35a8kfvl3f3sxhjd/cudos",
-            "amount": "500580990000000000000000"
+            "amount": "500500908827443492735783"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1genudzpvqe2t9k64xwueua35a8kfvl3f3sxhjd/osmo",
-            "amount": "402368000000"
+            "amount": "402433030045"
           },
           "weight": "1073741824"
         }
@@ -17370,6 +17370,38 @@
           "token": {
             "denom": "factory/osmo1uwuvxxx979k3wgvwegz044c6thnmsj23v7ucc8/uowo",
             "amount": "12866363590579"
+          },
+          "weight": "1073741824"
+        }
+      ],
+      "total_weight": "2147483648"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1skcvfzw2q4sk43j2y5g5gjwgv2wstc4ytdak5qt6s4czv0jz3ujq80kqck",
+      "id": "836",
+      "pool_params": {
+        "swap_fee": "0.010000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "168h",
+      "total_shares": {
+        "denom": "gamm/pool/836",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "factory/osmo16k4n6ydn8mgqv0yt2ue37fhfs8jhgldlaegnjz7ecs4smljq8z9ssfr29s/Calibre1Souverain1210",
+            "amount": "795"
+          },
+          "weight": "1073741824"
+        },
+        {
+          "token": {
+            "denom": "factory/osmo1zprf2th5m03f4mpnweqkfqx2m0vhmh67k6qt4v/USDC",
+            "amount": "6303120675"
           },
           "weight": "1073741824"
         }
