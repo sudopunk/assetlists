@@ -1078,14 +1078,14 @@
         {
           "token": {
             "denom": "ibc/F37CF69589DE12342758382F8770C0852CD8D2E4519F55166EBDAF472AD667C9",
-            "amount": "17898308997"
+            "amount": "17896130637"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "82012647521"
+            "amount": "82022660337"
           },
           "weight": "1073741824"
         }
@@ -2337,14 +2337,14 @@
         {
           "token": {
             "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
-            "amount": "177437670454"
+            "amount": "177407096105"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "105896775715"
+            "amount": "105915062549"
           },
           "weight": "1073741824"
         }
@@ -5691,14 +5691,14 @@
         {
           "token": {
             "denom": "ibc/88C815D69587CF0F05E96E5E2731EA56194D73C9A02A500095294D3A5DE68F16",
-            "amount": "1209264780"
+            "amount": "1191901857"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "545540197"
+            "amount": "553503231"
           },
           "weight": "536870912000000"
         }
@@ -7259,14 +7259,14 @@
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "63359367600"
+            "amount": "63358114408"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "160752686629"
+            "amount": "160755872619"
           },
           "weight": "1073741824000000"
         }
@@ -10387,14 +10387,14 @@
         {
           "token": {
             "denom": "ibc/5F10B4BED1A80DC44975D95D716AEF8CEBFB99B3F088C98361436A7D0CF5A830",
-            "amount": "265568898688856961252"
+            "amount": "264209337211406163369"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "377145993"
+            "amount": "379088646"
           },
           "weight": "536870912000000"
         }
@@ -12725,14 +12725,14 @@
         {
           "token": {
             "denom": "ibc/C5B7196709BDFC3A312B06D7292892FA53F379CD3D556B65DB00E1531D471BBA",
-            "amount": "300602259"
+            "amount": "291383147"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "287791195"
+            "amount": "296896661"
           },
           "weight": "536870912000000"
         }
