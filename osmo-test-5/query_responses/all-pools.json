@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "100983358836"
+            "amount": "100981518239"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "524810549258"
+            "amount": "524820175814"
           },
           "weight": "1073741824"
         }
@@ -502,14 +502,14 @@
         {
           "token": {
             "denom": "factory/osmo109ns4u04l44kqdkvp876hukd3hxz8zzm7809el/uusdc",
-            "amount": "1375979902"
+            "amount": "1400792421"
           },
           "weight": "16106127360"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "1138200509"
+            "amount": "1108093073"
           },
           "weight": "10737418240"
         }
@@ -1078,14 +1078,14 @@
         {
           "token": {
             "denom": "ibc/F37CF69589DE12342758382F8770C0852CD8D2E4519F55166EBDAF472AD667C9",
-            "amount": "17811918632"
+            "amount": "17811089993"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "82411618683"
+            "amount": "82415464325"
           },
           "weight": "1073741824"
         }
@@ -2337,14 +2337,14 @@
         {
           "token": {
             "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
-            "amount": "175359038333"
+            "amount": "175234646450"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "107154554257"
+            "amount": "107230771358"
           },
           "weight": "1073741824"
         }
@@ -7259,14 +7259,14 @@
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "62086671360"
+            "amount": "62080533741"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "164055200610"
+            "amount": "164071452515"
           },
           "weight": "1073741824000000"
         }
@@ -7381,14 +7381,14 @@
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "326857277"
+            "amount": "324715569"
           },
           "weight": "2147483648"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "1537953421"
+            "amount": "1558311856"
           },
           "weight": "1073741824"
         }
@@ -7637,14 +7637,14 @@
         {
           "token": {
             "denom": "ibc/3642669AD14386D3E38F43F30CFCA859B3E8A05BF6BD6A23DEBD2115AD1325E9",
-            "amount": "389859044"
+            "amount": "389461227"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "969204767"
+            "amount": "970204767"
           },
           "weight": "1073741824"
         }
@@ -7669,14 +7669,14 @@
         {
           "token": {
             "denom": "ibc/3642669AD14386D3E38F43F30CFCA859B3E8A05BF6BD6A23DEBD2115AD1325E9",
-            "amount": "588208822"
+            "amount": "588606639"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "624450824"
+            "amount": "624032999"
           },
           "weight": "1073741824"
         }
@@ -8273,14 +8273,14 @@
         {
           "token": {
             "denom": "ibc/48384130079A5987378F5776775F8C29A02505273E777BBB99361F2BB5B577C9",
-            "amount": "321354909"
+            "amount": "320218966"
           },
           "weight": "5368709120"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "552507680"
+            "amount": "554507680"
           },
           "weight": "5368709120"
         }
@@ -10163,14 +10163,14 @@
         {
           "token": {
             "denom": "ibc/539BC2B6E70117D220834D6DF8E27307655D1325C0CADF7E3AF90AB00D9F8D69",
-            "amount": "3924760"
+            "amount": "3892661"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "237671183"
+            "amount": "239671183"
           },
           "weight": "536870912000000"
         }
@@ -10355,14 +10355,14 @@
         {
           "token": {
             "denom": "ibc/5F10B4BED1A80DC44975D95D716AEF8CEBFB99B3F088C98361436A7D0CF5A830",
-            "amount": "77851416629812816136"
+            "amount": "72353384843146511243"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "26051727"
+            "amount": "28051727"
           },
           "weight": "536870912000000"
         }
@@ -10387,14 +10387,14 @@
         {
           "token": {
             "denom": "ibc/5F10B4BED1A80DC44975D95D716AEF8CEBFB99B3F088C98361436A7D0CF5A830",
-            "amount": "244533604004121184441"
+            "amount": "234398747521626241889"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "409622576"
+            "amount": "427351432"
           },
           "weight": "536870912000000"
         }
@@ -12725,14 +12725,14 @@
         {
           "token": {
             "denom": "ibc/C5B7196709BDFC3A312B06D7292892FA53F379CD3D556B65DB00E1531D471BBA",
-            "amount": "139417782"
+            "amount": "138969865"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "620514084"
+            "amount": "622514084"
           },
           "weight": "536870912000000"
         }
@@ -19986,14 +19986,14 @@
         {
           "token": {
             "denom": "ibc/24F3F83587084430E25E268A143565FEF5C84AE2308F2657BC46D1F227D2AF65",
-            "amount": "8989766873425275747376"
+            "amount": "8988797192944191869924"
           },
           "weight": "107374182400"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "89107779187"
+            "amount": "89117420752"
           },
           "weight": "107374182400"
         }
@@ -20223,6 +20223,710 @@
         }
       ],
       "total_weight": "107374182400000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo18n8esudssnjg9wslajm780xz74cnzxst8yudnx3drac7ccn4jfsq0f7seh",
+      "id": "941",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/941",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
+            "amount": "755753"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "2000000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo19rp3zpkm2ckvfll4ap9luezlwpahnt9jh3cmt08py5ytzxgsffaq864e85",
+      "id": "942",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/942",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/48384130079A5987378F5776775F8C29A02505273E777BBB99361F2BB5B577C9",
+            "amount": "568987"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1gxx4lx3qfghak8hx9eknn5fqq3uz5g9hccv44ktaczj2ka53sjpqg6hpel",
+      "id": "943",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/943",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "uion",
+            "amount": "3199"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo16l4x4nuc7wrsdzhek8svcp4f4gfn45fu9xde3dng3ytajwpt402s2sydld",
+      "id": "944",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/944",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
+            "amount": "377625"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1e42am672053kwj520nh06k5rk29wymk3t239zkly289kf7xcn30slt6zaq",
+      "id": "945",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/945",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
+            "amount": "1630959"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1n0qacuxanvwlwczlcfterdyr8g7a9dl3sh5rzj6la0e70ungwslsgc567h",
+      "id": "946",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/946",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/F37CF69589DE12342758382F8770C0852CD8D2E4519F55166EBDAF472AD667C9",
+            "amount": "215817"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1strpdkakg4jhqxm5sj4spalqvsk7jwx5mazygakrc3u9sgxz2skq4qt468",
+      "id": "947",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/947",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
+            "amount": "417825"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1w6fuceq6ag525lapl8q3nlth9tqjd88gmphjz2gr8jtpftl0pg6s34sz07",
+      "id": "948",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/948",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/5F10B4BED1A80DC44975D95D716AEF8CEBFB99B3F088C98361436A7D0CF5A830",
+            "amount": "2850147198938687884"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1ccx08q4e0z5acvxwq69xku64ge7jwc8wrr5ttrut3hzauyllvxasr28yyv",
+      "id": "949",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/949",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/AB8AF05799E299FB5C5C80781DA35887F53E029745D20E5641233DB4E6B28515",
+            "amount": "33172"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo16jylrs80un60lm7sg72rjkfgdr2aupcyruyk5yy3ckgwaxzr807q2798gy",
+      "id": "950",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/950",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/539BC2B6E70117D220834D6DF8E27307655D1325C0CADF7E3AF90AB00D9F8D69",
+            "amount": "16116"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo19j4w6zud38ghq66q7mujdthnyewhe9xdf4yj2ymc2zzxvsqc3zus7sf7rh",
+      "id": "951",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/951",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/88C815D69587CF0F05E96E5E2731EA56194D73C9A02A500095294D3A5DE68F16",
+            "amount": "2250220"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1x6m3jf33gl2gc92w9v5x7rhh4jnjauq3897nk406rwxw4nv7zw7qmpwrqu",
+      "id": "952",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/952",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "uion",
+            "amount": "3199"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1xnz2eenqcz377chztzjget3qd9vmw35k54tksksvqtk784s8uz8sma2gxn",
+      "id": "953",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/953",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
+            "amount": "377620"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1xj3vc2smzwmksmw96ln9uczwuy6nsmc4kwd6khwe3pgfle8lwcqq7smvup",
+      "id": "954",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/954",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/48384130079A5987378F5776775F8C29A02505273E777BBB99361F2BB5B577C9",
+            "amount": "566956"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1l0p43mtgnejfutl23mg5pd32cqrndatky3hz7jyxfcr9clsjfmqq9g909e",
+      "id": "955",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/955",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/C5B7196709BDFC3A312B06D7292892FA53F379CD3D556B65DB00E1531D471BBA",
+            "amount": "223598"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo18ryd5url0s4pvkzrea7qtv644fx05xrymnrpa5s2f9glycwqj3pstrzjju",
+      "id": "956",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/956",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/AB8AF05799E299FB5C5C80781DA35887F53E029745D20E5641233DB4E6B28515",
+            "amount": "33011"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1kyqamkgxxvr3l0lyr0qsuuvrne9j72c9faaaxkn6zprzr7l97dls0tl2xv",
+      "id": "957",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/957",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
+            "amount": "1630929"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1yjecvaur3ud9lnxs9mvexjagafednwqeg5kps2nn6t4t5hr3f0hqxs6lgz",
+      "id": "958",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/958",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/539BC2B6E70117D220834D6DF8E27307655D1325C0CADF7E3AF90AB00D9F8D69",
+            "amount": "15983"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1rm29xt3shwpe9vljyr7pnzps3elvewealut53ahpaxstl97z80wqr3skg2",
+      "id": "959",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/959",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/5F10B4BED1A80DC44975D95D716AEF8CEBFB99B3F088C98361436A7D0CF5A830",
+            "amount": "2647884587727617009"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1kn5yq4z25l9n7y0u9dts09gfenpj4wsq3ay73nlnt20w5j3wtr2qxgpev4",
+      "id": "960",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/960",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/F37CF69589DE12342758382F8770C0852CD8D2E4519F55166EBDAF472AD667C9",
+            "amount": "215467"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1mwt3kg38sf9m789nrqqmc9xc6k8e2axq7zep4pma28z69hefyw0qjperlz",
+      "id": "961",
+      "pool_params": {
+        "swap_fee": "0.000000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/961",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/88C815D69587CF0F05E96E5E2731EA56194D73C9A02A500095294D3A5DE68F16",
+            "amount": "2246447"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "500000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1wulyllxz2e4trs77wa6h0nqvtklyyykq8mhg3fc7lwjvqazjlceskzrlr7",
+      "id": "962",
+      "pool_params": {
+        "swap_fee": "0.001000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "168h",
+      "total_shares": {
+        "denom": "gamm/pool/962",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/C34D578ABDA051E1CB3AC2C24834E7E43E0F7FA37DB8EE114FB5F263AF545622",
+            "amount": "10000000"
+          },
+          "weight": "1073741824"
+        },
+        {
+          "token": {
+            "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
+            "amount": "20000000"
+          },
+          "weight": "2147483648"
+        }
+      ],
+      "total_weight": "3221225472"
     }
   ],
   "pagination": {
