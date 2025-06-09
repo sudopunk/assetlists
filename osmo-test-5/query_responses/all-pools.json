@@ -12,20 +12,20 @@
       "future_pool_governor": "",
       "total_shares": {
         "denom": "gamm/pool/1",
-        "amount": "15357337124865876535039"
+        "amount": "15358661852992592583562"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "uion",
-            "amount": "2510107228"
+            "amount": "2497939346"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "3149604410298"
+            "amount": "3153822976493"
           },
           "weight": "4294967296"
         }
@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "101183227823"
+            "amount": "101183163880"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "524005506457"
+            "amount": "524005840421"
           },
           "weight": "1073741824"
         }
@@ -2331,20 +2331,20 @@
       "future_pool_governor": "",
       "total_shares": {
         "denom": "gamm/pool/85",
-        "amount": "98912545954781429601261"
+        "amount": "98913356923519464714399"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
-            "amount": "175190863061"
+            "amount": "176665588887"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "107257643977"
+            "amount": "106369734514"
           },
           "weight": "1073741824"
         }
@@ -7320,14 +7320,14 @@
         {
           "token": {
             "denom": "ibc/1587E7B54FC9EFDA2350DC690EC2F9B9ECEB6FC31CF11884F9C0C5207ABE3921",
-            "amount": "82225910133"
+            "amount": "82211212981"
           },
           "weight": "2147483648"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "223704956956"
+            "amount": "223784956956"
           },
           "weight": "1073741824"
         }
@@ -7350,11 +7350,11 @@
       "pool_liquidity": [
         {
           "denom": "ibc/1587E7B54FC9EFDA2350DC690EC2F9B9ECEB6FC31CF11884F9C0C5207ABE3921",
-          "amount": "181697058"
+          "amount": "196394210"
         },
         {
           "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-          "amount": "639451632"
+          "amount": "619323822"
         }
       ],
       "scaling_factors": [
@@ -7381,14 +7381,14 @@
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "389099063"
+            "amount": "389096187"
           },
           "weight": "2147483648"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "1690479360"
+            "amount": "1690504360"
           },
           "weight": "1073741824"
         }
@@ -7637,14 +7637,14 @@
         {
           "token": {
             "denom": "ibc/3642669AD14386D3E38F43F30CFCA859B3E8A05BF6BD6A23DEBD2115AD1325E9",
-            "amount": "334645516"
+            "amount": "328887022"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "1130844767"
+            "amount": "1150844767"
           },
           "weight": "1073741824"
         }
@@ -7669,14 +7669,14 @@
         {
           "token": {
             "denom": "ibc/3642669AD14386D3E38F43F30CFCA859B3E8A05BF6BD6A23DEBD2115AD1325E9",
-            "amount": "643422350"
+            "amount": "649180844"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "571375554"
+            "amount": "566357463"
           },
           "weight": "1073741824"
         }
@@ -7949,11 +7949,11 @@
       "pool_liquidity": [
         {
           "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
-          "amount": "3601585"
+          "amount": "3524330"
         },
         {
           "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-          "amount": "42807"
+          "amount": "45683"
         }
       ],
       "scaling_factors": [
@@ -19986,14 +19986,14 @@
         {
           "token": {
             "denom": "ibc/24F3F83587084430E25E268A143565FEF5C84AE2308F2657BC46D1F227D2AF65",
-            "amount": "8992797192944191869924"
+            "amount": "9012797192944191869924"
           },
           "weight": "107374182400"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "89077900152"
+            "amount": "88880822522"
           },
           "weight": "107374182400"
         }
@@ -20370,14 +20370,14 @@
         {
           "token": {
             "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
-            "amount": "1630959"
+            "amount": "1553295"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "500000"
+            "amount": "525000"
           },
           "weight": "536870912000000"
         }
@@ -22543,14 +22543,14 @@
         {
           "token": {
             "denom": "ibc/754C8533F8A418B03AD5F2C6AA19D4703CF78BBAB9E2E4DDD6212AAC2E502CA6",
-            "amount": "17933555"
+            "amount": "17304149"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "5498557"
+            "amount": "5698557"
           },
           "weight": "536870912000000"
         }
