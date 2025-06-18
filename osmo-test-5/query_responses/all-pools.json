@@ -470,14 +470,14 @@
         {
           "token": {
             "denom": "factory/osmo109ns4u04l44kqdkvp876hukd3hxz8zzm7809el/uusdc",
-            "amount": "13573519"
+            "amount": "13573520"
           },
           "weight": "16106127360"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "11617586"
+            "amount": "11617587"
           },
           "weight": "10737418240"
         }
@@ -19986,14 +19986,14 @@
         {
           "token": {
             "denom": "ibc/24F3F83587084430E25E268A143565FEF5C84AE2308F2657BC46D1F227D2AF65",
-            "amount": "10116788876511224578713"
+            "amount": "10748788876511224578713"
           },
           "weight": "107374182400"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "79214308408"
+            "amount": "74570212583"
           },
           "weight": "107374182400"
         }
