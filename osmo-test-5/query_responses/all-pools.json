@@ -7259,14 +7259,14 @@
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "61768945655"
+            "amount": "61756995265"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "165038007630"
+            "amount": "165070007630"
           },
           "weight": "1073741824000000"
         }
@@ -22158,11 +22158,11 @@
       "pool_liquidity": [
         {
           "denom": "uion",
-          "amount": "156399"
+          "amount": "188799"
         },
         {
           "denom": "uosmo",
-          "amount": "244411627"
+          "amount": "229544338"
         }
       ],
       "scaling_factors": [
