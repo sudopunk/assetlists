@@ -21587,14 +21587,14 @@
         {
           "token": {
             "denom": "uion",
-            "amount": "35189"
+            "amount": "29776"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "4400000"
+            "amount": "5200000"
           },
           "weight": "536870912000000"
         }
@@ -23216,11 +23216,11 @@
       "pool_liquidity": [
         {
           "denom": "uion",
-          "amount": "5000"
+          "amount": "3757"
         },
         {
           "denom": "uosmo",
-          "amount": "2000000"
+          "amount": "2200000"
         }
       ],
       "scaling_factors": [
