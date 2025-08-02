@@ -7381,14 +7381,14 @@
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "354617717"
+            "amount": "354618008"
           },
           "weight": "2147483648"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2036107742"
+            "amount": "2036104401"
           },
           "weight": "1073741824"
         }
@@ -20946,14 +20946,14 @@
         {
           "token": {
             "denom": "uion",
-            "amount": "3199"
+            "amount": "2712"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "500000"
+            "amount": "590000"
           },
           "weight": "536870912000000"
         }
@@ -21683,14 +21683,14 @@
         {
           "token": {
             "denom": "uion",
-            "amount": "3199"
+            "amount": "2580"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "500000"
+            "amount": "620000"
           },
           "weight": "536870912000000"
         }
@@ -23216,11 +23216,11 @@
       "pool_liquidity": [
         {
           "denom": "uion",
-          "amount": "3757"
+          "amount": "3332"
         },
         {
           "denom": "uosmo",
-          "amount": "2200000"
+          "amount": "2290000"
         }
       ],
       "scaling_factors": [
@@ -23970,11 +23970,11 @@
       "pool_liquidity": [
         {
           "denom": "uion",
-          "amount": "3000"
+          "amount": "2249"
         },
         {
           "denom": "uosmo",
-          "amount": "1000000"
+          "amount": "1101000"
         }
       ],
       "scaling_factors": [
