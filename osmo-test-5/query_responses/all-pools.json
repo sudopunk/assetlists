@@ -18,14 +18,14 @@
         {
           "token": {
             "denom": "uion",
-            "amount": "2536631517"
+            "amount": "2536843942"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "3141927463922"
+            "amount": "3141862017657"
           },
           "weight": "4294967296"
         }
@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "95696872163"
+            "amount": "95697588083"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "554107392373"
+            "amount": "554103264645"
           },
           "weight": "1073741824"
         }
@@ -7381,14 +7381,14 @@
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "1518011873"
+            "amount": "2374405371"
           },
           "weight": "2147483648"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "111143143"
+            "amount": "45434752"
           },
           "weight": "1073741824"
         }
@@ -26664,6 +26664,38 @@
         }
       ],
       "total_weight": "107374182400000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1juq05cdfez9mfagmz4ttdf68n2p98stztatgn2e9xyw3jjp48mvsf8xx2r",
+      "id": "1159",
+      "pool_params": {
+        "swap_fee": "0.000000000000000001",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "osmo1ljpxt0ky2k64f9denegm9qzvklqvvsunpugxcep553qrjecssnwqmxcjuh",
+      "total_shares": {
+        "denom": "gamm/pool/1159",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "factory/osmo1q0km54gdne9vpru50kscr6jnpjlatud6t0w5s4am9kfvfwf4m5qqnhz26u/mepe",
+            "amount": "1"
+          },
+          "weight": "1073741824"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "1"
+          },
+          "weight": "1073741824"
+        }
+      ],
+      "total_weight": "2147483648"
     }
   ],
   "pagination": {
